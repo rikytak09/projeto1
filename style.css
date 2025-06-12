@@ -38,4 +38,18 @@ section#notícias ul li{
    width:350px;
    height:350px;
    background:gray;
+}
+section#notícias{
+   text-align:;
+   height:;
+   widht:;
+   box-shadow: 5px 0px 0px 0px#00000030;
+}
+section#notícias{
+   text-align: center;
 }   
+section#notícias{
+   font-size:35%;
+   color:#3333333;
+   text-align:center;
+}
