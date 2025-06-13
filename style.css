@@ -53,3 +53,10 @@ section#notícias{
    color:#3333333;
    text-align:center;
 }
+section#notícias h3{
+   text-align:center;
+   font-size:35px;
+   font-family:arial;
+   margin:25px 0;
+   text-transform:uppercase;
+}
