@@ -45,11 +45,16 @@ section#notícias{
    widht:;
    box-shadow: 5px 0px 0px 0px#00000030;
 }
-section#notícias{
+section#notícias .categoria{
    text-align: center;
+   background:#900;
+   color:#fff;
+   display:block;
+   padding:5px 0;
+   
 }   
-section#notícias{
-   font-size:35%;
+section#notícias h2{
+   font-size:35px;
    color:#3333333;
    text-align:center;
 }
