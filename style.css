@@ -31,19 +31,16 @@ section#notícias{
    width:1100px;
    height:auto;
    border:0 auto;
-   margin:1px solid black;
 }
 section#notícias ul li{
    list-style:none;
    width:350px;
    height:350px;
-   background:gray;
 }
-section#notícias{
-   text-align:;
-   height:;
-   widht:;
-   box-shadow: 5px 0px 0px 0px#00000030;
+section#notícias img{
+   text-align:center;
+   height:150px;
+   width:100%;
 }
 section#notícias .categoria{
    text-align: center;
@@ -64,4 +61,12 @@ section#notícias h3{
    font-family:arial;
    margin:25px 0;
    text-transform:uppercase;
+}
+section#notícias ul li a{
+   text-align:center;
+   font-size:19px;
+   color:yellow;
+   background:blue;
+   display:block;
+   padding:5px 0;
 }
