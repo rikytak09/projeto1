@@ -30,7 +30,7 @@ section#banner{
 section#notícias{
    width:1100px;
    height:auto;
-   border:0 auto;
+   margin:0 auto;
 
 }
 section#notícias ul li{
