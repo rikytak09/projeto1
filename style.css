@@ -31,21 +31,27 @@ section#notícias{
    width:1100px;
    height:auto;
    border:0 auto;
+
 }
 section#notícias ul li{
    list-style:none;
    width:350px;
    height:350px;
+   margin:5px;
+}
+ul{
+display:flex;
 }
 section#notícias img{
    text-align:center;
    height:150px;
    width:100%;
+
 }
 section#notícias .categoria{
    text-align: center;
-   background:#900;
-   color:#fff;
+   background:purple;
+   color:yellow;
    display:block;
    padding:5px 0;
    
@@ -69,4 +75,11 @@ section#notícias ul li a{
    background:blue;
    display:block;
    padding:5px 0;
+}
+section#notícias ul li a:hover{
+   background:purple;
+}
+section#notícias ul li p{
+   text-align:center;
+   margin:15px 0;
 }
