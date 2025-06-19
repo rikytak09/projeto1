@@ -1,0 +1,21 @@
+div#um{
+   color: red;
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   margin:200px;
+}
+div#dois{
+   color: blue;
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   margin:30px;
+}
+header{
+   display:flex;
+   justify-content:center;
+}
+a{
+   margin:10px;
+}
