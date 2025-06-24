@@ -41,6 +41,7 @@ section#notícias ul li{
 }
 ul{
 display:flex;
+flex-wrap:wrap;
 }
 section#notícias img{
    text-align:center;
