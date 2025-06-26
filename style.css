@@ -84,3 +84,6 @@ section#notícias ul li p{
    text-align:center;
    margin:15px 0;
 }
+section#projetos{
+   display:flex;
+}
