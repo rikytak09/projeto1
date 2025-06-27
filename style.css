@@ -25,7 +25,10 @@ header img{
 }
 section#banner{
    height:350px;
-   background:blue;
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSThPfH556VMv1vTnW9WCGzxLFRgQti9DDMw&s")
+   background-repeat:no-repeat;
+   background-position:center center;
+   background-size:100%;
 }
 section#notícias{
    width:1100px;
