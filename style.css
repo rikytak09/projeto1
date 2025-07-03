@@ -87,6 +87,25 @@ section#notícias ul li p{
    text-align:center;
    margin:15px 0;
 }
-section#projetos{
+section#projetos ul{
    display:flex;
+   width: 1100px;
+   margin:0 auto;
+}
+section#projetos ul li{
+   overflow:hidden;
+   height:450px;
+   margin: 10px;
+   position: relative;
+   border-radius:30px;
+}
+section#projetos ul li img{
+
+}
+section#projetos ul li h3{
+   position:absolute;
+   bottom:30 px;
+   background:red;
+   color:#fff;
+   padding:10px;
 }
